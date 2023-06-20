@@ -1,5 +1,5 @@
 # 💫 About Me:
--👋 Hi, I’m Mohammad Salman Ali<br>- 👀 I’m interested in Full-Stack Development<br>- 🌱 I’m currently learning DSA,Javascript ,Solidity<br>- 💞️ I’m looking to collaborate on Blockchain Projects<br>- 📫 I'm always open to exciting collaborations, discussions, and opportunities. <br>Feel free to reach out to me via email or connect with me on LinkedIn.
+-👋 Hi, I’m Mohammad Salman Ali<br>- 👀 I’m interested in Full-Stack Development<br>- 🌱 I’m currently learning DSA,Javascript & Solidity<br>- 💞️ I’m looking to collaborate on Blockchain Projects<br>- 📫 I'm always open to exciting collaborations, discussions, and opportunities. <br>Feel free to reach out to me via email or connect with me on LinkedIn.
 
 
 ## 🌐 Socials:
