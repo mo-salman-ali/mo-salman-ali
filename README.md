@@ -4,7 +4,7 @@
 <img align="right" alt="" width="400" src="https://gifdb.com/gif/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.html?embed=true”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo-salman-ali&label=Profile%20views&color=0e75b6&style=flat" alt="mo-salman-ali" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mo-salman-ali" alt="mo-salman-ali" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/salmanx__x" target="blank"><img src="https://img.shields.io/twitter/follow/salmanx__x?logo=twitter&style=for-the-badge" alt="salmanx__x" /></a> </p>
 
