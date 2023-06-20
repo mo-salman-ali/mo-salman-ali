@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://mo-salman-ali.io)
 <h1 align="center">Hi 👋, I'm Mohammad Salman Ali</h1>
 <h3 align="center">Blockchain enthusiast|Passionate Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif”>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo-salman-ali&label=Profile%20views&color=0e75b6&style=flat" alt="mo-salman-ali" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mo-salman-ali" alt="mo-salman-ali" /></a> </p>
